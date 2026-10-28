@@ -1,0 +1,5 @@
+venv/
+TestScripts/reports
+TestScripts/reports1
+TestScripts/Screenshots
+TestScripts/test-results
